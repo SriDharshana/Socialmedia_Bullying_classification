@@ -64,6 +64,8 @@ sample_text=["@pradeep : A feminist is an advocacy of the political, economic, a
 
 ![image](https://user-images.githubusercontent.com/86719672/210181959-4a010718-6510-4045-836c-69d454404295.png)
 
+The given text comes under 'Gender' category
+
 
 
 
