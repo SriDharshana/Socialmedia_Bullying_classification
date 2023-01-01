@@ -6,7 +6,7 @@ A cyberbully classification system is used to identify and classify cyberbullyin
 
 # Datasets
 
-Twitter dataset is used for Social media bullying classification
+Twitter tweets dataset is used for Social media bullying classification
 
 Texts are classified as mentioned below :
  
