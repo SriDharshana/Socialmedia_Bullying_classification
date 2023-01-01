@@ -50,11 +50,16 @@ TfidfVectorizer - Converts a collection of raw documents into a matrix of TF-IDF
 
 **NAIVE BAYES** algorithm is used 
 
+
+**Accuracy** - _0.89_
+
+
+
+
 **Confusion Matrix**
 
 ![image](https://user-images.githubusercontent.com/86719672/210181924-782fc15a-a104-4fef-9a52-fc4f6f0d2326.png)
 
-**Accuracy** - _0.89_
 
 # Prediction
 
