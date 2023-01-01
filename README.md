@@ -27,7 +27,7 @@ _6. Not cyber bullying_
 ![image](https://user-images.githubusercontent.com/86719672/210181799-ffa96a84-21df-4c13-831e-51da580cfd0c.png)
 
 
-**Cleaned Dataset**
+**Preprocessed Dataset**
 
 ![image](https://user-images.githubusercontent.com/86719672/210181808-22cbd2b1-5233-47d4-8e69-bd2b8fa6a6a8.png)
 
@@ -55,6 +55,15 @@ Naive Bayes
 ![image](https://user-images.githubusercontent.com/86719672/210181924-782fc15a-a104-4fef-9a52-fc4f6f0d2326.png)
 
 **Accuracy** - _0.89_
+
+# Prediction
+
+sample_text=["@pradeep : A feminist is an advocacy of the political, economic, and social equality of the sexes expressed especially through organized activity on behalf of women's rights and interests"]
+
+**Output**
+
+![image](https://user-images.githubusercontent.com/86719672/210181959-4a010718-6510-4045-836c-69d454404295.png)
+
 
 
 
