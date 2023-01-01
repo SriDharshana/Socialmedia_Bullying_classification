@@ -48,7 +48,7 @@ TfidfVectorizer - Converts a collection of raw documents into a matrix of TF-IDF
 
 # Algorithm 
 
-Naive Bayes 
+**NAIVE BAYES **algorithm is used 
 
 **Confusion Matrix**
 
