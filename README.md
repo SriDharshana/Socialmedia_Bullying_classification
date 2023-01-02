@@ -2,7 +2,7 @@
 To classify the social media bullying based on the text they posted
 
 # Model 
-A cyberbully classification system is used to identify and classify cyberbullying activities such as Flaming, Harassment, Racism and Terrorism in Social Media is proposed . Each words or texts comes under specific categories.Using Machine Learning we can easily categorise the text .Based on that , Naives Bayes algorithm is used to classify the twitter comments into 5 categories . Natural Language processing is used to preprocess the twitter comments by removing URLs,mentions,hashtags,symbols,etc.Then the model is trained using Naive bayes for classifying the text.
+A cyberbully classification system is used to identify and classify cyberbullying activities such as Flaming, Harassment, Racism and Terrorism in Social Media is proposed . Each words or texts comes under specific categories.Using Machine Learning we can easily categorise the text .Based on that , Naive Bayes algorithm is used to classify the twitter comments into 5 categories . Natural Language processing is used to preprocess the twitter comments by removing URLs,mentions,hashtags,symbols,etc.Then the model is trained using Naive bayes for classifying the text.
 
 # Datasets
 
